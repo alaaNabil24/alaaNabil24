@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **alaanabil4000@gmail.com**
 
-- 📄 Know about my experiences [cv]([https://flowcv.com/resume/w0uestpd9t)
+- 📄 Know about my experiences [[cv]([https://flowcv.com/resume/w0uestpd9t)](https://flowcv.com/resume/w0uestpd9t)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **alaanabil4000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gbYco_G9xtZwWxuu94aQpMK-P-Er-n3O/view?usp=share_link](https://drive.google.com/file/d/1gbYco_G9xtZwWxuu94aQpMK-P-Er-n3O/view?usp=share_link)
+- 📄 Know about my experiences [cv]([https://flowcv.com/resume/w0uestpd9t)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Creative  minds<br>💬 Ask me about Flutter , dart ,java,oop<br>
+ 💬 Ask me about Flutter , dart ,java,oop<br>
 
 
 ## 🌐 Socials:

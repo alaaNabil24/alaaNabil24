@@ -77,5 +77,4 @@ Software developer with 2+ years of experience in mobile programming and problem
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+

@@ -4,7 +4,7 @@
   
 
 ### <div align="center">                 I'm Alaa Nabil
-Software developer with 2+ years of experience in mobile programming and problem-solving, specializing in Flutter development. Proficient in Dart, object-oriented programming (OOP), state management, API integration, and clean architecture. </div>  
+Software developer with 3 years of experience in mobile programming and problem-solving, specializing in Flutter development. Proficient in Dart, object-oriented programming (OOP), state management, API integration, and clean architecture. </div>  
   
 
 - 🔭 I’m currently working on art4muslim  
